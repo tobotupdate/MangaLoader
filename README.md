@@ -2,7 +2,8 @@
 ---
 
 Telegram RoBot to Upload manga/comic.
-
+Deploy 
+http://heroku.com/deploy?template=(GitHub.com/tobotupdate/mangaloader)
 #### Features:
 
 👉 Uploading from [supported resources](https://manga-py.com/manga-py/#resources-list) as PDF/ZIP/Folder (each chapter) | Uploaded as Zipfile
